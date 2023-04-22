@@ -13,7 +13,6 @@ To set up this project carefully follow these steps
 2. Make a .env file in the project directory.
         Here we will store sensetive information like sender's email id and sender's email password
 
-#Important step DONT MISS!!
 3. Since we are using google smtp server, to send emails and use the services we will need to enable two step authentication. For that
     -> Go to your gmail account then go to security
     -> Enable Two step verification. 
